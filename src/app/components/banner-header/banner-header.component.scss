@@ -1,0 +1,23 @@
+img{
+    padding: 0px;
+   
+    align-items: center;
+    //margin-top: -60px;
+	width: 100%;
+	//min-width: 230px;
+	//max-width: 330px;
+	position: relative;
+	height: 50%;
+	//min-height: 300px;
+	max-height: 800px;
+
+}
+#nameTitle{
+    position: absolute;
+    color: #83b7b6;
+    white-space: nowrap;
+    font-size: 3vw;
+    z-index: 9;
+}
+
+    

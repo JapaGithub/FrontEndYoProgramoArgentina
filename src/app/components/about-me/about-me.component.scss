@@ -1,0 +1,20 @@
+#about{
+    margin-top: 20px;
+}
+#myImg{
+    
+    //position: relative;
+    //list-style: none;
+    width: 12em;
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f3eeee;
+    box-shadow: 0 10px 20px rgba($color: #012466, $alpha: 1.0);
+    border-radius: 80%;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    
+  
+}
