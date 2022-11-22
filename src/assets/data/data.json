@@ -1,0 +1,103 @@
+{
+  "information": {
+    "name": "Jordan",
+    "lastName": "Perez",
+    "ocupation": "Full Stack Developer Jr",
+    "img": "./assets/img/jordan1.1.png",
+    "city": "Buenos Aires (Argentina)"
+  },
+  "experence": [
+    {
+      "keyCore": {
+        "company": "KEY CORE INTERNATIONAL - Venezuela",
+        "title": "Desarrollador Web y Testing ",
+        "description": "Brindar soporte a aplicaciones desarrolladas bajo ASP NET MVC, C# y NET Framework. Realizar testing de aplicación desarrollada bajo PHP, Laravel MVC y Angular. Transcripción, elaboración y Documentación de manuales de usuario para el uso de Apps",
+        "logo": "./assets/img/keyCore",
+        "date": "2017"
+      },
+      "argPrograma": {
+        "company": "Argentina Programa",
+        "title": "Full Stack Developer Jr",
+		  "description": "Realizacion de Portafolio en curso Argentina Programas",
+        "logo": "./assets/img/APLogo-20-20.png",
+        "date": "2017"
+      }
+    }
+  ],
+  "education": [ 
+    {
+        "name": "Instituto Universitario Jesus Obrero - Venezuela",
+        "title": "Técnico Informático",
+        "logo": "./assets/img/iujoLogo.png",
+        "date":2010
+    },
+    {
+        "name": "Argentina Programa",
+        "title": "Full Stack Developer Jr",
+        "logo": "./assets/img/argP2.png",
+        "date":2014
+    }
+ 
+],
+  "skills": [
+    {
+      "js": {
+        "name": "Javascript",
+        "logo": "./assets/img/js",
+        "level": 100
+      },
+      "css": {
+        "name": "CSS",
+        "logo": "./assets/img/css",
+        "level": 100
+      },
+      "html": {
+        "name": "HTML",
+        "logo": "./assets/img/html",
+        "level": 100
+      },
+      "java": {
+        "name": "Spring Boot",
+        "logo": "./assets/img/springBoot",
+        "level": 100
+      },
+      "sql": {
+        "name": "MySQL",
+        "logo": "./assets/img/mySql",
+        "level": 100
+      },
+      "heroku": {
+        "name": "Heroku",
+        "logo": "./assets/img/heroku",
+        "level": 100
+      },
+      "ts": {
+        "name": "Ts",
+        "logo": "./assets/img/ts",
+        "level": 100
+      },
+      "angular": {
+        "name": "Angular",
+        "logo": "./assets/img/angular",
+        "level": 100
+      },
+      "firebase": {
+        "name": "Firebase",
+        "logo": "./assets/img/firebase",
+        "level": 100
+      },
+      "json": {
+        "name": "JSON",
+        "logo": "./assets/img/json",
+        "level": 100
+      }
+    }
+  ],
+  "proyects": [
+    {
+      "name": "Portafolio",
+      "company": "Argentina Programa",
+      "date": "2022"
+    }
+  ]
+}
